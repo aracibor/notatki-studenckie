@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <semesters>
+    <s>1</s>
+    <s>2</s>
+    <s>3</s>
+    <s>4</s>
+  </semesters>
+  <subjects>
+    <subject>
+      <id>0</id>
+      <semester>1</semester>
+      <name>Analiza matematyczna I</name>
+    </subject>
+    <subject>
+      <id>1</id>
+      <semester>1</semester>
+      <name>Programowanie I</name>
+    </subject>
+  </subjects>
+  <notes>
+    <note>
+      <id>0</id>
+      <subjectID>1</subjectID>
+      <name>Podstawy c++</name>
+      <textFile>1.txt</textFile>
+      <images>
+        <img>0.jpg</img>
+        <img>1.jpg</img>
+        <img>2.jpg</img>
+      </images>
+    </note>
+    <note>
+      <id>0</id>
+      <subjectID>0</subjectID>
+      <name>Różniczkowanie funkcji</name>
+      <textFile>2.txt</textFile>
+      <images>
+        <img>3.jpg</img>
+        <img>4.jpg</img>
+        <img>5.jpg</img>
+        <img>0.png</img>
+      </images>
+    </note>
+  </notes>
+</data>
